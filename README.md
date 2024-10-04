@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hola, I'm María 👋</h1>
 
-<!--
-**mariaalfaroc/mariaalfaroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">PhD in Computer Science | Researcher</h3>
 
-Here are some ideas to get you started:
+&nbsp;
+**About me**:
+- 🔭 I’m a Deep Learning Researcher, always eager to explore and learn something new.
+- 👩🏻‍💻 Take a look at all of my [**repositories**]().
+- 📫 How to reach me [**malfaro@dlsi.ua.es**](mailto:malfaro@dlsi.ua.es)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+<p align="center">
+    <a href="https://mariaalfaroc.github.io/"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white" alt="Portfolio" width="100"></a>
+</p>
